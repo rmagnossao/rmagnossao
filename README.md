@@ -6,7 +6,7 @@
 
 <div>
   <a href="https://github.com/rmagnossao"> 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rmagnossao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rmagnossao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
      <img align=right. alt="gifmag", heitgh="180em" src="https://help.grandchef.com.br/wp-content/uploads/2021/02/tenor-2.gif">
 
     
