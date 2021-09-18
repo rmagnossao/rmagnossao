@@ -1,12 +1,13 @@
-## Olá, eu sou Rodrigo Magnossão
+    <div>
+    ## Olá, eu sou Rodrigo Magnossão
+    <a href="https://www.linkedin.com/in/rodrigo-magnoss%C3%A3o-15aa5635/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?tyle=for-theadge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </div>
 
 - :computer: Java Backend Developer
 - 👀 I’m interested in music and tecnology
 - 🌱 I’m currently learning functional programming
 
-    <div>
-    <a href="https://www.linkedin.com/in/rodrigo-magnoss%C3%A3o-15aa5635/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?tyle=for-theadge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </div>
+
 
 <div>
   <a href="https://github.com/rmagnossao"> 
