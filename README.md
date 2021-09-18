@@ -23,8 +23,6 @@
     <img align=center alt="magnos-java", height=30 width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   </div>
   <br>
-  
-
     <div>
     <a href="https://www.linkedin.com/in/rodrigo-magnoss%C3%A3o-15aa5635/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?tyle=for-theadge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
