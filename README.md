@@ -23,10 +23,11 @@
     <img align=center alt="magnos-java", height=30 width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   </div>
   <br>
+  ![Snake animation](https://github.com/rmagnossao/rmagnossao/blob/output/github-contribution-grid-snake.svg)
+
     <div>
     <a href="https://www.linkedin.com/in/rodrigo-magnoss%C3%A3o-15aa5635/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?tyle=for-theadge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
-  ![Snake animation](https://github.com/rmagnossao/rmagnossao/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 rmagnossao/rmagnossao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
