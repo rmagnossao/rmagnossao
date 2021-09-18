@@ -32,7 +32,7 @@
     <img align=center alt="magnos-java", height=30 width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
     <img align=center alt="magnos-java", height=30 width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   </div>
-  <br>
+
 
 
 ![Snake animation](https://github.com/rmagnossao/rmagnossao/blob/output/github-contribution-grid-snake.svg)
