@@ -2,7 +2,6 @@
 
 - 👀 I’m interested in music and tecnology
 - 🌱 I’m currently learning functional programming
-- 📫 How to reach me https://www.linkedin.com/in/rodrigo-magnoss%C3%A3o-15aa5635/
 
 <div>
   <a href="https://github.com/rmagnossao"> 
@@ -21,6 +20,10 @@
     <img align=center alt="magnos-java", height=30 width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
     <img align=center alt="magnos-java", height=30 width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
 
+  </div>
+  
+  <div>
+    <a href="https://www.linkedin.com/in/rodrigo-magnoss%C3%A3o-15aa5635/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?tyle=for-theadge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
    
     
