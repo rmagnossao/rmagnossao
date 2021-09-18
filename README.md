@@ -1,6 +1,6 @@
 ## Olá, eu sou Rodrigo Magnossão
 
-
+- :computer: Java Backend Developer
 - 👀 I’m interested in music and tecnology
 - 🌱 I’m currently learning functional programming
 
