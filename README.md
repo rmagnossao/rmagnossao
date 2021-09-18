@@ -8,7 +8,7 @@
   <a href="https://github.com/rmagnossao"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rmagnossao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top_langs/?ername=rmagnossao&layout=compact&ngs_count=3&theme=dracula"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?ername=rmagnossao&layout=compact&ngs_count=3&theme=dracula"/>
     
    
   </div>
