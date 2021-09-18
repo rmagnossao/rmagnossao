@@ -19,12 +19,11 @@
     <img align=center alt="magnos-java", height=30 width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align=center alt="magnos-java", height=30 width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
     <img align=center alt="magnos-java", height=30 width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-
+    <img align=right. alt="gifmag".    , src="https://help.grandchef.com.br/wp-content/uploads/2021/02/tenor-2.gif">
   </div>
   <br>
     <div>
     <a href="https://www.linkedin.com/in/rodrigo-magnoss%C3%A3o-15aa5635/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?tyle=for-theadge&logo=linkedin&logoColor=white" target="_blank"></a>
-      ![Uzoma Medium Gif](https://help.grandchef.com.br/wp-content/uploads/2021/02/tenor-2.gif)
   </div>
   
    
