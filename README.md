@@ -1,7 +1,7 @@
-    <div>
-    ## Olá, eu sou Rodrigo Magnossão
-    <a href="https://www.linkedin.com/in/rodrigo-magnoss%C3%A3o-15aa5635/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?tyle=for-theadge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div> 
+    <h2>Ola, eu sou Rodrigo Magnossão</h2> <a href="https://www.linkedin.com/in/rodrigo-magnoss%C3%A3o-15aa5635/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?tyle=for-     theadge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
+<br>
 
 - :computer: Java Backend Developer
 - 👀 I’m interested in music and tecnology
