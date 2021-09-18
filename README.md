@@ -17,6 +17,7 @@
     <img align=center alt="magnos-java", height=30 width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align=center alt="magnos-java", height=30 width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
     <img align=center alt="magnos-java", height=30 width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
+    <img align=center alt="magnos-java", height=30 width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg">
 
   </div>
    
