@@ -6,7 +6,10 @@
 
 <div>
   <a href="https://github.com/rmagnossao"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rmagnossao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rmagnossao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+           <img align=right. alt="gifmag".    , src="https://help.grandchef.com.br/wp-content/uploads/2021/02/tenor-2.gif">
+
+       />
     
  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmagnossao&layout=compact&ngs_count=1&theme=dracula"/> -->
     
@@ -19,7 +22,6 @@
     <img align=center alt="magnos-java", height=30 width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align=center alt="magnos-java", height=30 width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
     <img align=center alt="magnos-java", height=30 width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-    <img align=right. alt="gifmag".    , src="https://help.grandchef.com.br/wp-content/uploads/2021/02/tenor-2.gif">
   </div>
   <br>
     <div>
